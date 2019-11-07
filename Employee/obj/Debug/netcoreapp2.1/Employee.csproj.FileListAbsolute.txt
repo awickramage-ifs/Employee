@@ -1,0 +1,14 @@
+C:\Users\alwilk\Documents\Visual Studio 2017\Projects\Employee\Employee\bin\Debug\netcoreapp2.1\Employee.deps.json
+C:\Users\alwilk\Documents\Visual Studio 2017\Projects\Employee\Employee\bin\Debug\netcoreapp2.1\Employee.runtimeconfig.json
+C:\Users\alwilk\Documents\Visual Studio 2017\Projects\Employee\Employee\bin\Debug\netcoreapp2.1\Employee.runtimeconfig.dev.json
+C:\Users\alwilk\Documents\Visual Studio 2017\Projects\Employee\Employee\bin\Debug\netcoreapp2.1\Employee.dll
+C:\Users\alwilk\Documents\Visual Studio 2017\Projects\Employee\Employee\bin\Debug\netcoreapp2.1\Employee.pdb
+C:\Users\alwilk\Documents\Visual Studio 2017\Projects\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.csprojAssemblyReference.cache
+C:\Users\alwilk\Documents\Visual Studio 2017\Projects\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.csproj.CoreCompileInputs.cache
+C:\Users\alwilk\Documents\Visual Studio 2017\Projects\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.RazorAssemblyInfo.cache
+C:\Users\alwilk\Documents\Visual Studio 2017\Projects\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.RazorAssemblyInfo.cs
+C:\Users\alwilk\Documents\Visual Studio 2017\Projects\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.AssemblyInfoInputs.cache
+C:\Users\alwilk\Documents\Visual Studio 2017\Projects\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.AssemblyInfo.cs
+C:\Users\alwilk\Documents\Visual Studio 2017\Projects\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.RazorTargetAssemblyInfo.cache
+C:\Users\alwilk\Documents\Visual Studio 2017\Projects\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.dll
+C:\Users\alwilk\Documents\Visual Studio 2017\Projects\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.pdb
